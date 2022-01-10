@@ -2,7 +2,7 @@
 
 <p>Esse projeto é uma tela de login feita com HTML e CSS</p>
 
-<img src="./images/animação.gif">
+![Animação](https://user-images.githubusercontent.com/79489384/148791356-f2de7647-8d3b-4730-ae3f-6303cda3a3be.gif)
 
 <hr> 
 
